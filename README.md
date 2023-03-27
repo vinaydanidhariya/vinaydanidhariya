@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay Danidhariya</h1>
 <h3 align="center">A passionate Full-stack(MERN) developer from India</h3>
-
+<img src="https://github.com/vinaydanidhariya/vinaydanidhariya/blob/main/mern-banner.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaydanidhariya&label=Profile%20views&color=0e75b6&style=flat" alt="vinaydanidhariya" /> </p>
 
 
