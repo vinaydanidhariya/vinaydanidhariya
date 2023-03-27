@@ -1,6 +1,8 @@
+<img src="https://camo.githubusercontent.com/6d64ea92798f124bc3b152e6ed70888cf34010f60bcc79820a08db8e713dc61d/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f43344431424151484b5f586356693166344d512f636f6d70616e792d6261636b67726f756e645f31303030302f302f313630373633393633303432313f653d3231343734383336343726763d6265746126743d5f3946744b4a6341396432436477495658524c657353556759796d6555595a36476c565969324978465930">
+
 <h1 align="center">Hi 👋, I'm Vinay Danidhariya</h1>
 <h3 align="center">A passionate Full-stack(MERN) developer from India</h3>
-<img src="https://github.com/vinaydanidhariya/vinaydanidhariya/blob/main/mern-banner.jpeg">
+
 <p align="left"> <img src="https://github.com/vinaydanidhariya/vinaydanidhariya/blob/main/mern-banner.jpeg" alt="vinaydanidhariya" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaydanidhariya&label=Profile%20views&color=0e75b6&style=flat" alt="vinaydanidhariya" /> </p>
 
