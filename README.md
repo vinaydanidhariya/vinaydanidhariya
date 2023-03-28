@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaydanidhariya&label=Profile%20views&color=0e75b6&style=flat" alt="vinaydanidhariya" /> </p>
 
 <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="programmer image" style="display:flex;align-item:center;width:250px; height:250px;"> -->
-
+[![Portfolio](https://vinaydanidhariya.github.io/portfolio/)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinaydanidhariya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-danidhariya) 
 
