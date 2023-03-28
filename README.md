@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://vinaydanidhariya.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Portfolio&logoColor=white)](https://vinaydanidhariya.github.io/portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinaydanidhariya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-danidhariya) 
 
 # 💻 Tech Stack:
