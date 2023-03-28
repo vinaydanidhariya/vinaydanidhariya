@@ -5,9 +5,9 @@
 <img src="https://camo.githubusercontent.com/6d64ea92798f124bc3b152e6ed70888cf34010f60bcc79820a08db8e713dc61d/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f43344431424151484b5f586356693166344d512f636f6d70616e792d6261636b67726f756e645f31303030302f302f313630373633393633303432313f653d3231343734383336343726763d6265746126743d5f3946744b4a6341396432436477495658524c657353556759796d6555595a36476c565969324978465930" alt="mern-stack image">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaydanidhariya&label=Profile%20views&color=0e75b6&style=flat" alt="vinaydanidhariya" /> </p>
 
-<!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="programmer image" style="display:flex;align-item:center;width:250px; height:250px;"> -->
-[![Portfolio](https://vinaydanidhariya.github.io/portfolio/)
+
 ## 🌐 Socials:
+[![Portfolio](https://vinaydanidhariya.github.io/portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinaydanidhariya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-danidhariya) 
 
 # 💻 Tech Stack:
