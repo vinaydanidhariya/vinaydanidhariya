@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm vinay danidhariya</h1>
 <h3 align="center">A passionate Full-stack(MERN) developer from India</h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/vinaydanidhariya/vinaydanidhariya/main/programmer.webp"/> </p>
+<p align="center"> <img src="https://prepinstadotcom.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/06/Hack-with-Infy-2020-preparation.png"/> </p>
 
-<img src="https://prepinstadotcom.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/06/Hack-with-Infy-2020-preparation.png" alt="mern-stack image">
+<img src="https://raw.githubusercontent.com/vinaydanidhariya/vinaydanidhariya/main/mern-banner.jpeg" alt="mern-stack image">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaydanidhariya&label=Profile%20views&color=0e75b6&style=flat" alt="vinaydanidhariya" /> </p>
 
 
