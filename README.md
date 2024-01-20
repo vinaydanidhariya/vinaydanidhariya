@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/vinaydanidhariya/vinaydanidhariya/main/programmer.webp"/> </p>
 
-<img src="https://raw.githubusercontent.com/vinaydanidhariya/vinaydanidhariya/main/mern-banner.jpeg" alt="mern-stack image">
+<img src="https://prepinstadotcom.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/06/Hack-with-Infy-2020-preparation.png" alt="mern-stack image">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaydanidhariya&label=Profile%20views&color=0e75b6&style=flat" alt="vinaydanidhariya" /> </p>
 
 
