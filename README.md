@@ -3,10 +3,7 @@
 <h1 align="center">Hi 👋, I'm vinay danidhariya</h1>
 <h3 align="center">A passionate Full-stack(MERN) developer from India</h3>
 
-
-https://raw.githubusercontent.com/vinaydanidhariya/vinaydanidhariya/main/programmer.webp
-
-<img src="https://raw.githubusercontent.com/vinaydanidhariya/vinaydanidhariya/main/programmer.webp">
+<p align="center"> <img src="https://raw.githubusercontent.com/vinaydanidhariya/vinaydanidhariya/main/programmer.webp"/> </p>
 
 <img src="https://raw.githubusercontent.com/vinaydanidhariya/vinaydanidhariya/main/mern-banner.jpeg" alt="mern-stack image">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaydanidhariya&label=Profile%20views&color=0e75b6&style=flat" alt="vinaydanidhariya" /> </p>
