@@ -32,4 +32,12 @@
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> Postgres
 - Cloud & Deployment: 
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> AWS, 
-  <img src="https://img.icons8.com/color/48/000000/firebase
+  <img src="https://img.icons8.com/color/48/000000/firebase.png"/> Firebase, 
+  <img src="https://img.icons8.com/color/48/000000/vercel.png"/> Vercel
+- Others: 
+  <img src="https://img.icons8.com/color/48/000000/nginx.png"/> Nginx, 
+  <img src="https://img.icons8.com/fluency/48/000000/canva.png"/> Canva, 
+  <img src="https://img.icons8.com/color/48/000000/figma.png"/> Figma
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vinaydanidhariya&show_icons=true&theme=default&include_all_commits=true)
