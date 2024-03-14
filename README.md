@@ -1,9 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Vinay Danidhariya</h1>
 <h3 align="center">Full-stack Developer | MERN Stack | Passionate Learner</h3>
 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/vinaydanidhariya/vinaydanidhariya/main/mern-banner.jpeg" alt="MERN Stack Image">
-</p>
 
 <p align="center">Connect with me:</p>
 <p align="center"> 
@@ -17,15 +14,12 @@
 
 ## 💻 Tech Stack:
 - Languages: JavaScript, HTML5, CSS3, C++
-- Frontend: React, React Native, Next.js
+- Frontend: Html,Css , Bootstrap, React, Next.js
 - Backend: Node.js, Express.js
-- Databases: MongoDB, MySQL, Postgres, SQLite
+- Databases: MongoDB, MySQL, Postgres
 - Cloud & Deployment: AWS, Firebase, Vercel
 - Others: Nginx, Canva, Figma
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vinaydanidhariya&show_icons=true&theme=default&include_all_commits=true)
-
-## 📝 Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
