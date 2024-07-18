@@ -1,50 +1,18 @@
-<h1 align="center">Hi there 👋, I'm Vinay Danidhariya</h1>
-<h3 align="center">Full-stack Developer | MERN Stack | Passionate Learner</h3>
+<h1 align="center">Hi 👋, I'm Vinay Danidhariya</h1>
+<h3 align="center">A passionate Software developer from India</h3>
 
-<p align="center">Connect with me:</p>
-<p align="center">
-  <a href="https://linkedin.com/in/vinay-danidhariya">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://vinaydanidhariya.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Portfolio&logoColor=white" alt="Portfolio">
-  </a>
+- 🔭 I’m currently working on [Telemedicin Service](https://github.com/vinaydanidhariya/Telemedicine-Services)
+
+- 🌱 I’m currently learning **Next.js,Tailwnd CSS,AL/ML,CS Algorithms**
+
+- 👨‍💻 All of my projects are available at [https://vinaydanidhariya.github.io/Portfolio-Vinay-Danidhariya/](https://vinaydanidhariya.github.io/Portfolio-Vinay-Danidhariya/)
+
+- 📫 How to reach me **vinaydanidhariya@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-## 💻 Tech Stack:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-- **Languages:**
-  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript,
-  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5,
-  ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3,
-  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
-
-- **Frontend:**
-  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML,
-  ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS,
-  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap,
-  ![React](https://img.icons8.com/plasticine/48/000000/react.png) React,
-  ![Next.js](https://img.icons8.com/office/48/000000/react.png) Next.js
-
-- **Backend:**
-  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js,
-  ![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js
-
-- **Databases:**
-  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB,
-  ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) MySQL,
-  ![Postgres](https://img.icons8.com/color/48/000000/postgreesql.png) Postgres
-
-- **Cloud & Deployment:**
-  ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS,
-  ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase,
-  ![Vercel](https://img.icons8.com/color/48/000000/vercel.png) Vercel
-
-- **Others:**
-  ![Nginx](https://img.icons8.com/color/48/000000/nginx.png) Nginx,
-  ![Canva](https://img.icons8.com/fluency/48/000000/canva.png) Canva,
-  ![Figma](https://img.icons8.com/color/48/000000/figma.png) Figma
-
-## 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaydanidhariya&show_icons=true&theme=default&include_all_commits=true)
